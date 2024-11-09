@@ -12,7 +12,7 @@
   "dependencies": {
     "babel-core": "^6.25.0",
     "babel-traverse": "^6.26.0",
-    "cross-spawn": "^5.1.0",
+    "cross-spawn": "^7.0.5",
     "css-parse": "^2.0.0",
     "hash-sum": "^1.0.2",
     "js-beautify": "^1.6.14",
